@@ -1,0 +1,22 @@
+{
+  "name": "directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjjackson619/jest-another-RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kjjackson619/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/kjjackson619/jest-another-RPG#readme",
+  "description": ""
+}
