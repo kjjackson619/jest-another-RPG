@@ -18,5 +18,8 @@
     "url": "https://github.com/kjjackson619/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/kjjackson619/jest-another-RPG#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
